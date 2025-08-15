@@ -27,6 +27,10 @@ body {
     padding: 10px;
 }
 
+.sub_title.serving{
+    display: inline;
+}
+
 ul, ol {
     padding: 20px;
     margin: 15px;
